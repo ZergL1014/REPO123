@@ -4,13 +4,4 @@
     "system": "公有云_正",
     "style": "计算",
     "cloudProduct": "云服务器",
-    "num": 12,
-    "configuration": "2C8G",
-    "diskCapacity": "50G",
-    "dataDisk": "0.1T",
-    "softReq": "CentOS7.4",
-    "description": "",
-    "remark": "6台ODE+3台告警+3台元数据",
-    "contactName": "林凡",
-    "contactPhone": "0592-2155849"
 }
